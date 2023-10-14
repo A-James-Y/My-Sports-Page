@@ -49,4 +49,4 @@ Thank you for choosing us.
 # !Let the games begin!
 
 # Sketch
-![screenshotting](Documents\Workshop\IMG-6315)
+![screenshotting](Documents/Workshop/IMG-6315.jpeg)
