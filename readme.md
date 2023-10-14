@@ -48,4 +48,4 @@ Thank you for choosing us.
 # !Let the games begin!
 
 # Sketch
-![screenshotimg](C:\Users\ayelo\OneDrive\Documents\Workshop\IMG-6315.jpeg)
+![screenshotimg](Documents/Workshop/IMG-6315.jpeg)
