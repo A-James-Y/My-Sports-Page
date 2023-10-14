@@ -48,4 +48,4 @@ Thank you for choosing us.
 # !Let the games begin!
 
 # Sketch
-![screenshotimg](Documents/Workshop/IMG-6315.jpeg)
+![IMG-6315](https://github.com/A-James-Y/My-Sports-Page/assets/60763253/b88928cc-ffbc-4ebe-be00-3565da56802e)
